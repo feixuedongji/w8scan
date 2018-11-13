@@ -1,5 +1,5 @@
 # w8scan 一款模仿bugscan的扫描器
-
+原作者：https://github.com/boy-hack
 ## 前言
 说是模仿bugscan,但是我并没有bugscan账号，我所做的是模仿他的通信原理。网页端返回一段代码，本地python环境执行上述代码即可扫描。
 ### 具体流程：
